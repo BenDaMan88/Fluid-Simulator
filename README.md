@@ -1,3 +1,3 @@
 # Fluid-Simulator
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/BenDaMan88/Fluid-Simulator/blob/master/Main_screen.PNG)
