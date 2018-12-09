@@ -8,6 +8,6 @@ The program is made of two main classes, a Window class and a Particle class. Th
 
 The particle class represents an indivdual particle in the simulation. It holds the particle's position, velocity and acceleration vectors along with all of the visual components of the particle, size and color. The main bulk of the collision detection is handled in this class definition. 
 
-The main jar file included, Fluid_Sim_v5-29-2017.jar, holds program and can be run. Note to run the program Java3D must be installed on your machine.
+The main jar file included, Fluid_Sim_v5-29-2017.jar, holds program and can be run. **Note to run the program Java3D must be installed on your machine.**
 
 ![alt text](https://github.com/BenDaMan88/Fluid-Simulator/blob/master/Main_screen.PNG)
