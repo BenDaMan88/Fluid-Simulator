@@ -10,4 +10,6 @@ The particle class represents an indivdual particle in the simulation. It holds 
 
 The main jar file included, Fluid_Sim_v5-29-2017.jar, holds program and can be run. **Note to run the program Java3D must be installed on your machine.**
 
+This Program is based off of the ideas and program **Atoms In Motion** created by Scott Johnson.
+
 ![alt text](https://github.com/BenDaMan88/Fluid-Simulator/blob/master/Main_screen.PNG)
